@@ -1,4 +1,4 @@
-# ComposeMovie Android 🎥
+# Compose Movie App 🎥
 <samp>
 A Simple and Minimal Movies Android Application to demonstrate the <b>Modern Android Development</b> and <b>Jetpack Compose</b>. 
 <div align="center">
@@ -10,12 +10,12 @@ A Simple and Minimal Movies Android Application to demonstrate the <b>Modern And
   # ScreenShots 📷  
 <div align="center">
   <h3> Light Version </h3>
-  <img src="https://github.com/Omarmasudkalam/compose-movie/blob/main/images/home_light_.png" width="230px"/> 
-  <img src="https://github.com/Omarmasudkalam/compose-movie/blob/main/images/details_light.png" width="230px" /><br>
+  <img src="https://github.com/Omarmasudkalam/Compose-Movie-App/blob/main/images/home_light_.png" width="230px"/> 
+  <img src="https://github.com/Omarmasudkalam/Compose-Movie-App/blob/main/images/details_light.png" width="230px" /><br>
     
   <h3> Dark Version </h3>
-  <img src="https://github.com/Omarmasudkalam/compose-movie/blob/main/images/home_dark.png" width="230px"/> 
-  <img src="https://github.com/Omarmasudkalam/compose-movie/blob/main/images/details_dark.png" width="230px"/><br>
+  <img src="https://github.com/Omarmasudkalam/Compose-Movie-App/blob/main/images/home_dark.png" width="230px"/> 
+  <img src="https://github.com/Omarmasudkalam/Compose-Movie-App/blob/main/images/details_dark.png" width="230px"/><br>
 </div>
 
 ## Built With 🛠
